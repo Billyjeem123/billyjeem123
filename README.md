@@ -31,7 +31,7 @@ I'm Billy, a coding Instructor and  a results-driven Web Developer . I am curren
 
 
 
-<p align="left">
+<p style="display:flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Billyjeem123&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Billyjeem123&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=tokyonight" />
 </p>
