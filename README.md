@@ -36,7 +36,7 @@ You can listen to the recorded session on Clubhouse, [here](https://www.clubhous
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=terieyenike&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Billyjeem123&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=terieyenike&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=tokyonight" />
 </p>
 
