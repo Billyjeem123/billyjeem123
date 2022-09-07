@@ -1,6 +1,6 @@
 <h1 align="left">Billyhadiat</h1>
 
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=flat" />](https://terieyenike.github.io/v2/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/billyhadiat-taofeeq/) [<img src="https://img.shields.io/badge/Dev-090909?style=flat&logo=dev.to&logoColor=white" />](https://dev.to/terieyenike) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />](https://twitter.com/terieyenike)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=flat" />](https://terieyenike.github.io/v2/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/billyhadiat-taofeeq-203a92200) [<img src="https://img.shields.io/badge/Dev-090909?style=flat&logo=dev.to&logoColor=white" />](https://dev.to/terieyenike) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />](https://twitter.com/terieyenike)
 
 
 I am Billy, a coding Instructor and  a results-driven Web Developer . I am currently a backend developer intern  at [Fireswitch Tehnology](https://fireswitch.tech/). In addition, I solve problems on GeeksforGeeks in the Backend  web category. I also enjoy reading tech articles.
