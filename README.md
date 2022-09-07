@@ -2,18 +2,15 @@
 
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=flat" />](https://terieyenike.github.io/v2/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/terieyenike/) [<img src="https://img.shields.io/badge/Dev-090909?style=flat&logo=dev.to&logoColor=white" />](https://dev.to/terieyenike) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />](https://twitter.com/terieyenike)
 
+ and  dedicated to building and optimizing userfocused websites for customers with various business objectives. Judicious and creative when 
+crafting effective websites or webapps to propel competitive advantage and revenue growth. 
+I'm Billy, a coding Instructor and  a results-driven Web Developer . I am currently a abackend developer intern  at [Fireswitch Tehnology](https://fireswitch.tech/). In addition, I solve problems on GeeksforGeeks in the Backend  web category. I also enjoy reading tech articles.
 
-I'm Billy, a  backend developer intern  at [Fireswitch Tehnology](https://fireswitch.tech/). In addition, I solve problems on GeeksforGeeks in the Backend  web PHP webcategory. I also enjoy reading tech articles.
-
-```
-I believe so much in myself .
-```
 
 
 <h3 align="left">About Me</h3>  
 
 <!-- - 🔭 I’m currently working on  -->
-- 🌱 I’m currently partaking: 24 days of #JavaScriptmas [here](https://scrimba.com/learn/javascriptmas2021)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about web development with JavaScript and possibly in future, web 3.0 and blockchain
 - 🌐 Last project I built: [Digital Business Card](https://5osh7.csb.app/)
