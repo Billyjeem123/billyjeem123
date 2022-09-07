@@ -2,9 +2,8 @@
 
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=flat" />](https://terieyenike.github.io/v2/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/terieyenike/) [<img src="https://img.shields.io/badge/Dev-090909?style=flat&logo=dev.to&logoColor=white" />](https://dev.to/terieyenike) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />](https://twitter.com/terieyenike)
 
- and  dedicated to building and optimizing userfocused websites for customers with various business objectives. Judicious and creative when 
-crafting effective websites or webapps to propel competitive advantage and revenue growth. 
-I'm Billy, a coding Instructor and  a results-driven Web Developer . I am currently a abackend developer intern  at [Fireswitch Tehnology](https://fireswitch.tech/). In addition, I solve problems on GeeksforGeeks in the Backend  web category. I also enjoy reading tech articles.
+
+I'm Billy, a coding Instructor and  a results-driven Web Developer . I am currently a backend developer intern  at [Fireswitch Tehnology](https://fireswitch.tech/). In addition, I solve problems on GeeksforGeeks in the Backend  web category. I also enjoy reading tech articles.
 
 
 
@@ -12,31 +11,29 @@ I'm Billy, a coding Instructor and  a results-driven Web Developer . I am curren
 
 <!-- - 🔭 I’m currently working on  -->
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about web development with JavaScript and possibly in future, web 3.0 and blockchain
-- 🌐 Last project I built: [Digital Business Card](https://5osh7.csb.app/)
-- 📫 How to reach me: <teyenike1@gmail.com>
+- 💬 Ask me about web development related with  PHP, javascript  and possibly in future, web 3.0 and blockchain
+- 🌐 Last project I built: [onestopprocurement](https://onestopprocurement.com/)
+- 📫 How to reach me: <billyhadiattaofeeq@gmail.com>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love water sport (kayak) and street photography
+- ⚡ Fun fact: I am a sportman  who is extremy interested in Taikwondo
+- ⚡I speak 3 languages
 
 ### Tools I Like to use
 
-- React
-- Next
-- JavaScript
-- AWS Amplify
+- Ajax
+- jquery
+- javascript
+- PHP
+- mysqli
 - Heroku
-- styled-components
 
-### Speaking
-- How to become a technical writer
 
-You can listen to the recorded session on Clubhouse, [here](https://www.clubhouse.com/room/MRDwbLX5) and a resource for the talk, [here](https://www.figma.com/file/prtuOAoH6aLIeSbAt56Pea/Technical-writing?node-id=0%3A1)
 
 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Billyjeem123&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=terieyenike&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Billyjeem123&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=tokyonight" />
 </p>
 
 
