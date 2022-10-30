@@ -12,7 +12,7 @@ I am Billy, a coding Instructor and  a results-driven Web Developer . I am curre
 <!-- - 🔭 I’m currently working on  -->
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about web development related with  PHP, javascript  and possibly in future, web 3.0 and blockchain
-- 🌐 Last project I built: [onestopprocurement](https://onestopprocurement.com/)
+- 🌐 Last project I built: [fulazo.io](https://fulazo.io)
 - 📫 How to reach me: <billyhadiattaofeeq@gmail.com>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a sportman  who is extremy interested in Taikwondo
