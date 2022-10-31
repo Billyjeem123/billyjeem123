@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=flat" />]() [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/billyhadiat-taofeeq-203a92200) [<img src="https://img.shields.io/badge/Dev-090909?style=flat&logo=dev.to&logoColor=white" />]() [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />](https://twitter.com/BILLYJEEM)  [<img src="https://img.shields.io/badge/facebook-0077B5?style=flat&logo=facebook&logoColor=white" />](https://www.facebook.com/billyhadiat.taophiq)
 
 
-I am Billy, a coding Instructor and  a results-driven Web Developer . I am currently a backend developer intern  at [Fireswitch Tehnology](https://fireswitch.tech/). In addition, I solve problems on GeeksforGeeks in the Backend  web category. I also enjoy reading tech articles.
+My name is Billy, a coding Instructor and  a results-driven Web Developer . I am currently a backend developer intern  at [Fireswitch Tehnology](https://fireswitch.tech/). In addition, I solve problems on GeeksforGeeks in the Backend  web category. I also enjoy reading tech articles.
 
 
 
