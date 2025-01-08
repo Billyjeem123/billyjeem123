@@ -13,7 +13,7 @@ I am a coding tutor, Taikwondoist, and a result-driven software Developer dedica
 - 👯 I’m looking to collaborate on open source projects
 - Currently learning node.js
 - 💬 Ask me about web development related with  PHP, javascript  and possibly in future, web 3.0 and blockchain
-- 🌐 Last project I built: [oauthc](https://oauthc.gov.ng/)
+- 🌐 Last project I built: [spadeal](https://spadeals.com.ng/)
 - 📫 How to reach me: <billyhadiattaofeeq@gmail.com>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a sportman  who is extremy interested in Taikwondo
