@@ -13,7 +13,7 @@ I am a coding tutor, Taikwondoist, and a result-driven software Developer dedica
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about web development related with  PHP, javascript  and possibly in future, web 3.0 and blockchain
 - 🌐 Last project I built: [Hospease](https://gethospease.com)
-- - 🌐 Current project I am building: [Billia-app]()
+- - 🌐 Current project I am building: [404]()
 - 📫 How to reach me: <billyhadiattaofeeq@gmail.com>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a sportman  who is extremy interested in Taikwondo
